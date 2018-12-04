@@ -3,7 +3,157 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/ApiServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/config/ResourceServerConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/config/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/config/WebClientConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/controller/AnimanaController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/controller/ApiExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/controller/HealthCheckController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/security/AuthExceptionEntryPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/security/AuthenticationExceptionFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/security/CustomOAuth2ErrorHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/main/java/com/animana/apiservice/security/CustomWebResponseExceptionTranslator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/api-service/src/test/java/com/animana/apiservice/controller/AnimanaControllerIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/beanstore/src/main/java/com/mana/rad/BeanFinder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/beanstore/src/main/java/com/mana/rad/wojtek/mem/indexed/IndexedBeansMemory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/mana/src/main/java/com/mana/config/spring/WebSecurityConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/mana/src/main/resources/logging/log4j2-dev.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/oauthserver/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/oauthserver/src/main/resources/liquibase/master.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Animana/git-projects/oauthserver/src/test/java/com/animana/oauthserver/controllers/ClientManagementApplicationEndpointTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Dockerfile.dev">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/App.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/c3004bc5-1a12-43e8-add0-098506df17e2/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
